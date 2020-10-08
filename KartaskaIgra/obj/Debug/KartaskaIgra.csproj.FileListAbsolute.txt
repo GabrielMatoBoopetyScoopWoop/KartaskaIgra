@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\KartaskaIgra.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\KartaskaIgra.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\KartaskaIgra.exe.config
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\KartaskaIgra.exe
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\bin\Debug\KartaskaIgra.pdb
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\KartaskaIgra.exe
+C:\Users\Mato\source\repos\KartaskaIgra\KartaskaIgra\obj\Debug\KartaskaIgra.pdb
