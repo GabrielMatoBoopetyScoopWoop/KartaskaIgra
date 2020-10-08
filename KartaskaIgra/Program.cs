@@ -15,6 +15,11 @@ namespace KartaskaIgra
             {
                 Console.Write("Upisite broj karte:");
                 karte = Convert.ToInt32(Console.ReadLine());
+                if(karte>13 || karte < 1)
+                {
+                    Console.WriteLine("Krivi unos!");
+                    continue;
+                }
                 bodovi += karte;
             }
             if (bodovi == 31)
