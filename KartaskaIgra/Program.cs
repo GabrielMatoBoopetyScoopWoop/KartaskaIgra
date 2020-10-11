@@ -29,6 +29,7 @@ namespace KartaskaIgra
             {
                 Console.WriteLine("Izgubili ste!");
             }
+            Console.ReadKey();
         }
     }
 }
